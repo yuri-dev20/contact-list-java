@@ -39,3 +39,6 @@ build/
 
 ### Mac OS ###
 .DS_Store
+
+### Project relevant output file ###
+contactlistoutput.json
