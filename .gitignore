@@ -41,4 +41,8 @@ build/
 .DS_Store
 
 ### Project relevant output file ###
+<<<<<<< HEAD
 contactlistoutput.json
+=======
+contactlistoutput.json
+>>>>>>> 18b6f075898eca493564e41770f1ef61306831a7
